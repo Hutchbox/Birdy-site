@@ -12,6 +12,7 @@ p { text-align: center;}
     height: 80vh; /* adjust this as per your requirement */
     max-height: 600px; /* adjust this as per your requirement */
     margin: 0 auto; /* this will center the unity container */
+    display: block;
 }
 
 #unity-canvas {
