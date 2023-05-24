@@ -6,13 +6,12 @@ h1 {font-family: 'Roboto', sans-serif;}
 h3 { text-align: center;}
 p { text-align: center;}
 #unity-container {
-    margin-top: 20px;
+    margin-top: 10px;
     position: relative;
     width: 50%; /* adjust this as per your requirement */
     height: 60vh; /* adjust this as per your requirement */
     max-height: 600px; /* adjust this as per your requirement */
     margin: 0 auto; /* this will center the unity container */
-    display: block;
 }
 
 #unity-canvas {
