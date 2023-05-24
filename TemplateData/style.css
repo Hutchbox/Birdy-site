@@ -4,12 +4,13 @@ body { padding: 0; margin: 0;
  background-color: #f0ffff;}
 header { text-align: center;}
 h1 {font-family: 'Roboto', sans-serif;}
+
 #Incredulous-Jack-Flying {
   position: absolute;
   top: 10px;
   right: 10px;
-  width: 400px;
-  height:400px;
+  width: 200px;
+  height:200px;
 }
 
 h3 { text-align: center;}
