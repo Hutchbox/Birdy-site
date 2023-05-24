@@ -1,37 +1,5 @@
 var container = document.querySelector("#unity-container");
 var canvas = document.querySelector("#unity-canvas");
-
-// Add this before creating Unity instance.
-function resizeCanvas() {
-    // Aspect ratio of the game. Change it according to your needs.
-    var gameAspectRatio = 960 / 600;
-
-    // Get the container width and height.
-    var containerWidth = container.offsetWidth;
-    var containerHeight = container.offsetHeight;
-
-    // Calculate the new game width and height to fit the container while maintaining the aspect ratio.
-    var newGameWidth = containerWidth;
-    var newGameHeight = containerWidth / gameAspectRatio;
-
-    if (newGameHeight > containerHeight) {
-        newGameWidth = containerHeight * gameAspectRatio;
-        newGameHeight = containerHeight;
-    }
-
-    // Set the canvas width and height.
-    canvas.style.width = newGameWidth + 'px';
-    canvas.style.height = newGameHeight + 'px';
-}
-
-// Listen to the resize event.
-window.addEventListener('resize', resizeCanvas);
-
-// Call the function to initially set the canvas size.
-resizeCanvas();
-
-// The rest of your code...
-
 var loadingBar = document.querySelector("#unity-loading-bar");
 var progressBarFull = document.querySelector("#unity-progress-bar-full");
 var fullscreenButton = document.querySelector("#unity-fullscreen-button");
@@ -77,9 +45,6 @@ if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
   canvas.className = "unity-mobile";
 
   unityShowBanner('WebGL builds are not supported on mobile devices.');
-} else {
-  canvas.style.width = "960px";
-  canvas.style.height = "600px";
 }
 
 loadingBar.style.display = "block";
