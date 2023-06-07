@@ -1,0 +1,200 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v8_966 {
+  width: 100%;
+  height: 2118px;
+  background: none;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_2 {
+  width: 100%;
+  height: 1024px;
+  background: none;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v10_994 {
+  width: 100%;
+  height: 1124px;
+  background: url("../images/v10_994.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 993px;
+  left: 215px;
+  overflow: hidden;
+}
+.v8_970 {
+  width: 100%;
+  height: 1024px;
+  background: none;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 215px;
+  overflow: hidden;
+}
+.v8_969 {
+  width: 434px;
+  height: 434px;
+  background: url("../images/v8_969.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 575px;
+  left: 1434px;
+  box-shadow: 2px 4px 13px rgba(0.03713541850447655, 0.22247324883937836, 0.38749998807907104, 0.4099999964237213);
+  overflow: hidden;
+}
+.v9_977 {
+  width: 434px;
+  height: 434px;
+  background: url("../images/v9_977.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 574px;
+  left: 435px;
+  box-shadow: 2px 4px 13px rgba(0.03713541850447655, 0.22247324883937836, 0.38749998807907104, 0.4099999964237213);
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v2_6 {
+  width: 960px;
+  height: 600px;
+  background: rgba(245,245,245,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 451px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 3px 9px 31px rgba(0, 0, 0, 0.7400000095367432);
+  overflow: hidden;
+}
+.v26_299 {
+  width: 960px;
+  color: linear-gradient(rgba(9,56,98,1), rgba(2,94,175,0.9599999785423279));
+  position: absolute;
+  top: 66px;
+  left: 0px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v26_300 {
+  width: 467px;
+  color: linear-gradient(rgba(9,56,98,1), rgba(2,94,175,0.9599999785423279));
+  position: absolute;
+  top: 420px;
+  left: 71px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v26_314 {
+  width: 184px;
+  height: 167px;
+  background: url("../images/v26_314.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 361px;
+  left: 673px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v26_316 {
+  width: 197px;
+  height: 181px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border: 24.342302322387695px solid linear-gradient(rgba(9,56,98,1), rgba(18,71,117,0.9599999785423279));
+  box-shadow: 2.265169620513916px 4.530339241027832px 14px rgba(0.03713541850447655, 0.22247324883937836, 0.38749998807907104, 0.4099999964237213);
+}
+.v26_317 {
+  width: 168px;
+  height: 153px;
+  background: none;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 6px;
+  border: 6.795508861541748px solid linear-gradient(rgba(201,233,251,1), rgba(8,92,166,1));
+}
+.v26_318 {
+  width: 98px;
+  color: rgba(244,254,255,1);
+  position: absolute;
+  top: 43px;
+  left: 48px;
+  text-shadow: 0px 2.768906354904175px 2px rgba(0, 0, 0, 0.25);
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 51px;
+  opacity: 1;
+  text-align: center;
+}
+.v26_320 {
+  width: 110px;
+  background: url("../images/v26_320.png");
+  opacity: 1;
+  position: absolute;
+  top: 459px;
+  left: 512px;
+  border: 7px solid rgba(22,95,160,1);
+  box-shadow: 2px 4px 13px rgba(0.03713541850447655, 0.22247324883937836, 0.38749998807907104, 0.4099999964237213);
+}
